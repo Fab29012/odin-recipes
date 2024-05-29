@@ -1,1 +1,2 @@
 # odin-recipes
+For this HTML project with help from TOP, I will be building a recipes website using only the HTML skills picked up during the past few lessons. Using the appropriate elements for an HTML page, elements and attributes to add the necessary information needed. 
