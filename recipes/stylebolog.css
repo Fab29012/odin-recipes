@@ -1,0 +1,22 @@
+h1 {
+    background-color: rgb(129, 31, 31);
+    color: rgb(224, 198, 46);
+    font-size: 80px;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%
+}
+
+h3 {
+    font-size: 25px;
+    text-shadow: 3px 3px 3px rgb(209, 184, 42);
+}
+
+p {
+    text-align: justify;
+}
